@@ -6,7 +6,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
             Console.WriteLine("Hello, world!");
-
+            Console.WriteLine("Hello, world!");
         }
     }
 }
